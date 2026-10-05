@@ -1,0 +1,19 @@
+# Unity tarafından oluşturulan geçici klasörler
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
